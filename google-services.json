@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410346025685",
+    "project_id": "bitaldata-de986",
+    "storage_bucket": "bitaldata-de986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410346025685:android:ded2960650bf75f3e1685c",
+        "android_client_info": {
+          "package_name": "com.sjbdevdevsoft.bitaldata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYK9wAdDYALqncsO8rP_PGSvQpdbsjxr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
